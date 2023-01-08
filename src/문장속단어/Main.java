@@ -42,12 +42,6 @@ public class Main {
         }
 
         return answer;
-
-
-
-
-
-
     }
 
     public static void main(String[] args) {
