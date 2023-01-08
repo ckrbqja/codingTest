@@ -1,5 +1,3 @@
-package 피보나치;
-
 import java.util.Scanner;
 
 public class test {
